@@ -67,7 +67,7 @@ I am a "Triple Threat" technologist who translates complex business needs into s
 *Before transitioning to Architecture, I delivered high-impact GRC initiatives:*
 
 * **[NIST CSF Gap Analysis](https://github.com/CyberFreshy/NIST-CSF-Gap-Analysis-and-Security-Program-Development):** Developed comprehensive security program roadmaps.
-* **[InfoSec Risk Assessment](https://github.com/CyberFreshy/Information-Security-Risk-Assessment):** Conducted enterprise-wide risk evaluations at Fuze Logistics.
+* **[InfoSec Risk Assessment](https://github.com/freshy-codes/Information-Security-Risk-Assessment):** Conducted enterprise-wide risk evaluations at Fuze Logistics.
 * **Cloud Security Posture:** Drove a **31-point increase** in Azure Secure Score.
 
 ---
