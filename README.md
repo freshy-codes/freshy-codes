@@ -68,7 +68,7 @@ I am a "Triple Threat" technologist who translates complex business needs into s
 
 * **[NIST CSF Gap Analysis](https://github.com/freshy-codes/NIST-CSF-Gap-Analysis-and-Security-Program-Development):** Developed comprehensive security program roadmaps.
 * **[InfoSec Risk Assessment](https://github.com/freshy-codes/Information-Security-Risk-Assessment):** Conducted enterprise-wide risk evaluations at Fuze Logistics.
-* **Cloud Security Posture:** Drove a **31-point increase** in Azure Secure Score.
+* **[Third-Party Risk Management](https://github.com/freshy-codes/Third-Party-Risk-Management-Security-Due-Diligence):** Led security due diligence validation to secure critical client contracts.
 
 ---
 
